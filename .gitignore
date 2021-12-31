@@ -2,3 +2,4 @@ resources/
 current/
 progvar/
 *.exe
+.DS_Store
